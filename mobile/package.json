@@ -1,0 +1,1 @@
+{"name":"servdeal-mobile","private":true,"main":"expo-router/entry","scripts":{"start":"expo start","android":"expo start --android"},"dependencies":{"expo":"~54.0.0","expo-router":"~6.0.0","react":"19.1.0","react-native":"0.81.0"},"devDependencies":{"typescript":"~5.9.2","@types/react":"~19.1.0"}}
